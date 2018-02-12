@@ -8,3 +8,5 @@ Playing with Git
 2. Learn Git
 3. Enlightenment
 4. Version Control!
+5. More stuff
+6. Even more stuff
